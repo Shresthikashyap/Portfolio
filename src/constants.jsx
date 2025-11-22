@@ -36,7 +36,6 @@ export const SKILLS = [
   { name: 'Tailwind CSS', icon: <SiTailwindcss className="w-12 h-12 text-cyan-500" /> },
   { name: 'HTML5', icon: <SiHtml5 className="w-12 h-12 text-orange-600" /> },
   { name: 'CSS3', icon: <SiCss3 className="w-12 h-12 text-blue-500" /> },
-  { name: 'Figma', icon: <SiFigma className="w-12 h-12 text-red-500" /> },
 ];
 
   export const PROJECTS = [
