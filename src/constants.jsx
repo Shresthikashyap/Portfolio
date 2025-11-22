@@ -42,7 +42,7 @@ export const SKILLS = [
       title: 'E-commerce Platform',
       description: 'A full-featured e-commerce website with product listings, a shopping cart, and a checkout process. Built with the MERN stack.',
       tags: ['React', 'Node.js', 'Express', 'MongoDB'],
-      imageUrl: 'https://picsum.photos/seed/project1/400/300',
+      imageUrl: '/techmart.png',
       liveUrl: '#',
       repoUrl: '#',
     },
