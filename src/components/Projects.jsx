@@ -14,7 +14,7 @@ const ProjectCard = ({ project }) => (
   <div className="bg-light-navy rounded-2xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl hover:shadow-green/10 group">
     <div className="relative">
       <img src={project.imageUrl} alt={project.title} className="w-full h-48 object-cover group-hover:opacity-75 transition-opacity" />
-      <div className="absolute inset-0 bg-navy/50"></div>
+      {/* <div className="absolute inset-0 bg-navy/50"></div> */}
     </div>
     <div className="p-6">
       <h3 className="text-xl font-bold text-lightest-slate group-hover:text-green transition-colors mb-4">{project.title}</h3>
