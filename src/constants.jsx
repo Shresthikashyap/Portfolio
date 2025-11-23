@@ -17,12 +17,12 @@
   export const SOCIAL_LINKS = [
     {
       name: 'GitHub',
-      url: 'https://github.com',
+      url: 'https://github.com/Shresthikashyap/',
       icon: <SiGithub className="h-6 w-6" />,
     },
     {
       name: 'LinkedIn',
-      url: 'https://linkedin.com',
+      url: 'https://www.linkedin.com/in/shresthi-kashyap-96265b28b/',
       icon: <SiLinkedin className="h-6 w-6" />,
     },
   ];
