@@ -1,18 +1,20 @@
-
-  import React from 'react';
-  import { 
-    SiGithub,
-    SiLinkedin,
-    SiReact,
-    SiNextdotjs,
-    SiTypescript, 
-    SiJavascript, 
-    SiNodedotjs, 
-    SiTailwindcss, 
-    SiHtml5, 
-    SiCss3, 
-    SiFigma 
-  } from 'react-icons/si';
+import React from 'react';
+import { 
+  SiGithub,
+  SiLinkedin,
+  SiReact,
+  SiNextdotjs,
+  SiTypescript, 
+  SiJavascript, 
+  SiNodedotjs, 
+  SiTailwindcss, 
+  SiHtml5, 
+  SiCss3,
+  SiMongodb,
+  SiMysql,
+  SiRedux,
+  SiZulip 
+} from 'react-icons/si';
 
   export const SOCIAL_LINKS = [
     {
@@ -33,6 +35,11 @@ export const SKILLS = [
   { name: 'TypeScript', icon: <SiTypescript className="w-12 h-12 text-blue-600" /> },
   { name: 'JavaScript', icon: <SiJavascript className="w-12 h-12 text-yellow-400" /> },
   { name: 'Node.js', icon: <SiNodedotjs className="w-12 h-12 text-green-600" /> },
+  { name: 'Express.js', icon: <SiNodedotjs className="w-12 h-12 text-gray-700" /> }, 
+  { name: 'MySQL', icon: <SiMysql className="w-12 h-12 text-blue-600" /> },
+  { name: 'MongoDB', icon: <SiMongodb className="w-12 h-12 text-green-600" /> },
+  { name: 'Redux', icon: <SiRedux className="w-12 h-12 text-purple-600" /> },
+  { name: 'Zustand', icon: <SiZulip className="w-12 h-12 text-orange-500" /> }, 
   { name: 'Tailwind CSS', icon: <SiTailwindcss className="w-12 h-12 text-cyan-500" /> },
   { name: 'HTML5', icon: <SiHtml5 className="w-12 h-12 text-orange-600" /> },
   { name: 'CSS3', icon: <SiCss3 className="w-12 h-12 text-blue-500" /> },
