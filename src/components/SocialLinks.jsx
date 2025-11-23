@@ -3,7 +3,7 @@ import { SOCIAL_LINKS } from '../constants';
 
 const SocialLinks = () => {
   return (
-    <div className="md:flex flex-col items-center fixed bottom-0 right-10 z-10">
+    <div className="md:flex flex-col items-center fixed bottom-0 right-10 sm:right-12 z-10">
       <ul className="flex flex-col items-center space-y-6">
         {SOCIAL_LINKS.map((link) => (
           <li key={link.name}>
