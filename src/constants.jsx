@@ -31,13 +31,13 @@ import {
 
 export const SKILLS = [
   { name: 'React', icon: <SiReact className="w-12 h-12 text-cyan-400" /> },
-  { name: 'Next.js', icon: <SiNextdotjs className="w-12 h-12 text-black dark:text-white" /> },
   { name: 'TypeScript', icon: <SiTypescript className="w-12 h-12 text-blue-600" /> },
   { name: 'JavaScript', icon: <SiJavascript className="w-12 h-12 text-yellow-400" /> },
   { name: 'Node.js', icon: <SiNodedotjs className="w-12 h-12 text-green-600" /> },
   { name: 'Express.js', icon: <SiNodedotjs className="w-12 h-12 text-gray-700" /> }, 
   { name: 'MySQL', icon: <SiMysql className="w-12 h-12 text-blue-600" /> },
   { name: 'MongoDB', icon: <SiMongodb className="w-12 h-12 text-green-600" /> },
+  { name: 'Next.js', icon: <SiNextdotjs className="w-12 h-12 text-black dark:text-white" /> },
   { name: 'Redux', icon: <SiRedux className="w-12 h-12 text-purple-600" /> },
   { name: 'Zustand', icon: <SiZulip className="w-12 h-12 text-orange-500" /> }, 
   { name: 'Tailwind CSS', icon: <SiTailwindcss className="w-12 h-12 text-cyan-500" /> },
@@ -67,7 +67,7 @@ export const SKILLS = [
     description: 'TechMart is your one-stop online destination for cutting-edge gadgets, electronics, and smart lifestyle solutions.',
     tags: ['Next.js', 'Prisma', 'MySQL', 'TypeScript', 'Zustand'],
     imageUrl: '/techmart.png',
-    liveUrl: 'https://stunning-kangaroo-3ef166.netlify.app/',
+    liveUrl: 'https://techmart0.netlify.app/',
     repoUrl: 'https://github.com/Shresthikashyap/Techmart/tree/main',
   },
   {
