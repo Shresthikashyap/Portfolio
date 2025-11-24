@@ -20,11 +20,10 @@ const Hero = () => {
           Building End-to-End Web Applications
         </h2>
         <p className="text-slate text-lg mt-6 max-w-xl leading-relaxed animate-fadeInUp delay-400 mx-auto md:mx-0">
-            I'm a dedicated full-stack developer focused on building scalable, secure, and meaningful applications. 
-             From designing responsive UI to managing efficient backend systems and databases, 
-          I love bringing ideas to life through clean code, performance-driven structures, and problem-solving. 
-          Every line I write moves me closer to mastering this craft — and I’m just getting started.
-
+I'm a dedicated full-stack developer with a passion for building scalable, secure, and impactful applications. 
+          I specialize in crafting responsive user interfaces, architecting efficient backend systems, and optimizing database performance. 
+          Driven by clean code principles and a problem-solving mindset, I transform ideas into robust digital solutions. 
+          Committed to continuous growth and technical excellence, I approach every project as an opportunity to refine my craft
         </p>
         <a
           href="#contact"
