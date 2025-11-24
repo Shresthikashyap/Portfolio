@@ -20,12 +20,11 @@ const Hero = () => {
           Building End-to-End Web Applications
         </h2>
         <p className="text-slate text-lg mt-6 max-w-xl leading-relaxed animate-fadeInUp delay-400 mx-auto md:mx-0">
-          I'm a full stack MERN developer passionate about designing and deploying modern web solutions.
-          From crafting responsive front-end interfaces with React to architecting secure back-end APIs
-          with Node.js and Express, I enjoy bringing ideas to life with clean, scalable code. With MongoDB
-          powering data and a focus on performance, I aim to deliver seamless user experiences and robust
-          applications. Always curious and driven, I'm eager to learn, adapt, and contribute to impactful
-          projects.
+            I'm a dedicated full-stack developer focused on building scalable, secure, and meaningful applications. 
+             From designing responsive UI to managing efficient backend systems and databases, 
+          I love bringing ideas to life through clean code, performance-driven structures, and problem-solving. 
+          Every line I write moves me closer to mastering this craft — and I’m just getting started.
+
         </p>
         <a
           href="#contact"
