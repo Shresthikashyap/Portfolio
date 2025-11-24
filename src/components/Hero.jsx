@@ -17,12 +17,15 @@ const Hero = () => {
           Shresthi Kashyap
         </h1>
         <h2 className="text-2xl sm:text-4xl lg:text-5xl font-bold text-green mt-4 animate-fadeInUp delay-200">
-          Building Modern Web Experiences
+          Building End-to-End Web Applications
         </h2>
         <p className="text-slate text-lg mt-6 max-w-xl leading-relaxed animate-fadeInUp delay-400 mx-auto md:mx-0">
-          I'm a passionate front-end developer specializing in creating beautiful, functional, and
-          user-centered digital experiences. Although I'm at the beginning of my journey, I'm a fast
-          learner and eager to contribute to exciting projects.
+          I'm a full stack MERN developer passionate about designing and deploying modern web solutions.
+          From crafting responsive front-end interfaces with React to architecting secure back-end APIs
+          with Node.js and Express, I enjoy bringing ideas to life with clean, scalable code. With MongoDB
+          powering data and a focus on performance, I aim to deliver seamless user experiences and robust
+          applications. Always curious and driven, I'm eager to learn, adapt, and contribute to impactful
+          projects.
         </p>
         <a
           href="#contact"
