@@ -67,7 +67,7 @@ export const SKILLS = [
     description: 'TechMart is your one-stop online destination for cutting-edge gadgets, electronics, and smart lifestyle solutions.',
     tags: ['Next.js', 'Prisma', 'MySQL', 'TypeScript', 'Zustand'],
     imageUrl: '/techmart.png',
-    liveUrl: 'https://techmart0.netlify.app/',
+    liveUrl: 'https://techmart007.netlify.app/',
     repoUrl: 'https://github.com/Shresthikashyap/Techmart/tree/main',
   },
   {
