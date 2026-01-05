@@ -1,7 +1,6 @@
 
 import React from 'react';
 import { SKILLS } from '../constants';
-import { FaUser, FaCode, FaFolderOpen, FaEnvelope } from "react-icons/fa"; // example icons
 
 const SectionTitle = ({ title }) => (
     <h2 className="flex items-center text-2xl md:text-3xl font-bold text-lightest-slate mb-10 w-full">
