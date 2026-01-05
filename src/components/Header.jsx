@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { MdMenu, MdClose } from "react-icons/md";
-import { FaUser, FaCode, FaFolderOpen, FaEnvelope } from "react-icons/fa";
+import { FaUser, FaCode, FaBriefcase, FaFolderOpen, FaEnvelope } from "react-icons/fa";
 
 const Header = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -17,6 +17,7 @@ const Header = () => {
   const navLinks = [
     { name: 'About', href: '#about', icon: <FaUser /> },
     { name: 'Skills', href: '#skills', icon: <FaCode /> },
+    { name: 'Experience', href: '#experience', icon: <FaBriefcase /> },
     { name: 'Projects', href: '#projects', icon: <FaFolderOpen /> },
     { name: 'Contact', href: '#contact', icon: <FaEnvelope /> },
   ];
